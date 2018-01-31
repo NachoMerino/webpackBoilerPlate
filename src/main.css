@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: lightcoral;
+}
+
+h1 {
+  color: pink;
+  font-size: 5em;
+  font-family: 'Rammetto One', cursive;
+  text-shadow: 0 0 25px black;
+}
+img{
+  width: 50%;
+  height: auto;
+  border-radius: 100%;
+  box-shadow: 0 0 25px black;
+}
+
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  flex-flow: column;
+}
+#root{
+  text-align: center;
+}
+
+h2{
+  font-size: 10em;
+}
+button {
+  width: 30%;
+  margin: 3em 0;
+}
